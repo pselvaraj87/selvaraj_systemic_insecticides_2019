@@ -1,0 +1,1 @@
+{"Nodes": [{"NodeID": 340461476}], "Defaults": {"IndividualProperties": [{"Transitions": [], "Initial_Distribution": [1.0, 0.0], "Property": "ReceivedIntervention", "Values": ["NoDrugs", "ReceiveDrugs"]}]}, "Metadata": {"NodeCount": 1, "Tool": "convertdemog.py", "DateCreated": "Sun Sep 25 23:19:55 2011", "IdReference": "Gridded world grump2.5arcmin", "Author": "jsteinkraus"}}
